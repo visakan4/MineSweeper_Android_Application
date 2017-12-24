@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Minesweeper</string>
+    <string name="timerValue">%1$d</string>
+    <string name="mineValue">%1$d</string>
+    <string name="timerText">Reset</string>
+    <string name="pauseText">Pause</string>
+    <string name="resumeText">Resume</string>
+    <string name="stopText"> </string>
+    <string name="RestartText">Restart</string>
+    <string name="beginner">Beginner</string>
+    <string name="Intermediate">Intermediate</string>
+    <string name="Expert">Advanced</string>
+    <string name="TimerLabel">Time:</string>
+    <string name="FlagLabel">Flag:</string>
+    <string name="MineLabel">Number of mines:</string>
+    <string name="LostLabel">Game Over!!!</string>
+    <string name="WonLabel">Game is won!!!</string>
+    <string name="pausedLabel">Game paused!!!</string>
+    <string name="gameOverText">Game Over!! Timed Out</string>
+</resources>
