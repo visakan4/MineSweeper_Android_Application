@@ -13,6 +13,7 @@ Minesweeper is a 2-dimensional grid based game. It is usually played in Windows 
 # Technologies:
 
 **Language :** Java
+
 **Tools :** Android Studio
 
 ## Screenshots
