@@ -10,6 +10,11 @@ Minesweeper is a 2-dimensional grid based game. It is usually played in Windows 
   * Red card - It is displayed to represent that the game is lost.
   * Golden cup - It is displayed to represent that the game is won.
 
+# Technologies:
+
+**Language :** Java
+**Tools :** Android Studio
+
 ## Screenshots
 
 ![alt text](https://github.com/visakan4/MineSweeper_Android_Application/blob/master/images/start_page.png "Start Page")
