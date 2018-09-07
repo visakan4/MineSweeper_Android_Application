@@ -35,9 +35,6 @@ Minesweeper is a 2-dimensional grid based game. It is usually played in Windows 
 
 ## References (License)
 
-Sound Tracks:
--------------
-
 1) Bomb Exploding Sound:
 
 [1] M. Koenig, "Bomb Exploding Sounds | Effects | Sound Bites | Sound Clips from SoundBible.com", Soundbible.com, 2017. [Online]. Available: http://soundbible.com/1986-Bomb-Exploding.html. [Accessed: 20- Oct- 2017].
