@@ -22,6 +22,11 @@ Minesweeper is a 2-dimensional grid based game. It is usually played in Windows 
 
 ## Setup
 
+ * Install Android Studio (Minimum SDK version 23.0)
+ * Clone the repository `git@github.com:visakan4/MineSweeper_Android_Application.git`
+ * In Android Studio, File ---> Open ----> Navigate to the file location
+ * Build the application
+ * Run the applicaiton once the build is successfull.
 
 ## References (License)
 
