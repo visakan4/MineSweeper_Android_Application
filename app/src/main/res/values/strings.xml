@@ -17,4 +17,5 @@
     <string name="WonLabel">Game is won!!!</string>
     <string name="pausedLabel">Game paused!!!</string>
     <string name="gameOverText">Game Over!! Timed Out</string>
+    <string name="title_activity_start">StartActivity</string>
 </resources>
